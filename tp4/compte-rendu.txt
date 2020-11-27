@@ -1,0 +1,30 @@
+Gourgaud Kévin
+12/03/2019
+
+Exercice 2 :
+
+Q2) Le programme serait compilé mais rien ne se passerait car la fonction n'est pas utilisée dans le programme, elle est juste définie.
+
+Q3) a prend la valeur de la chaîne de caractère suivante : "Toto".
+b execute la fonction bout_a_bout avec en paramètre a et la chaîne de caractère "Titi".
+
+Q4) c execute la fonction bout_a_bout avec en paramètre a et b (qui est lui mêmel'éxécution de bout_a_bout de a et "Titi"), la fonction affiche la longueur et la somme des longueurs de a et de b.
+On affiche une ligne vide, puis affiche b et enfin affiche c.
+
+
+Exercice 5 :
+
+Q16) Le programme est compilé. Il ne se passe rien puisqu'on ne demande pas à la fonction d'afficher quelque chose tant qu'elle n'est pas utilisée.
+
+Q18) Lors de l'éxécution, rien ne change.
+
+Q20) Lors de l'éxécution, le programme principal affiche "Programme principal".
+
+Q23) Le programme affiche "Programme principal" puis "Appel de la fonction produit" et ensuite "Appel de la fonction somme".
+
+
+Exercice 6 :
+
+Q28) à faire
+
+Q30) à faire

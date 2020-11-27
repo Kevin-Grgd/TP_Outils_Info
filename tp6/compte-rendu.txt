@@ -1,0 +1,62 @@
+Kévin Gourgaud
+Groupe 6
+
+
+Exercice 1 :
+
+Q2) Commande utilisée : python3 figures.py
+
+Q3) Il dessine des formes géométriques (disque, cercle, rectangle, ligne...).
+
+Q4) Il exporte l'image obtenue dans un fichier salut.png
+
+
+
+Exercice 2 :
+
+Q12) L'éxécution fait une erreur.
+
+Q13) Le programme affiche : Bienvenu dans param.py
+     		  	    --------------------------
+			    Bonjour TOTO
+
+Q15) Commande : python3 param.py Toto 5
+
+
+
+Exercice 3 - magic :
+
+Q18) Commandes :
+	python3 magic-spir.py 8 magic-spir-8.png
+	python3 magic-spir.py 25 magic-spir-25.png
+	python3 magic-spir.py 150 magic-spir-150.png
+
+Q19) Commande : python3 magic-1.py 4 magic-1.png
+
+Q20) Commandes : 
+	python3 magic-2.py 4 magic-2_4.png
+	python3 magic-2.py 7 magic-2_7.png
+
+Q21) Commandes : 
+	python3 magic-3.py 4 magic-3_4.png
+	python3 magic-3.py 5 magic-3_5.png
+
+Q22) Commandes : 
+	python3 magic-4.py 4 magic-4_4.png
+	python3 magic-4.py 7 magic-4_7.png
+
+Q23) Commandes : 
+	python3 magic-5.py 6 10 magic-5_6_10.png
+	python3 magic-5.py 15 26 magic-5_15_26.png
+
+Q24) Commandes : 
+	python3 magic-6.py 6 10 magic-6_6_10.png
+	python3 magic-6.py 15 26 magic-6_15_26.png
+
+
+Exercice 4 - ... :
+
+Q28) Commandes : 
+	python3 magic-smiley.py 6 10 magic-smiley.png
+	python3 magic-smiley.py 15 2 magic-smiley_15_2.png
+	python3 magic-smiley.py 10 32 magic-smiley_10_32.png
