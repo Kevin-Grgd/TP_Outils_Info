@@ -1,0 +1,15 @@
+#EXERCICE 1#
+Q1) Commande utilisée : touch statique.py
+Q4) Commande lancée : python3 statique.py
+Q5) Commandes utilisées : cp statique.py avecinput.py
+    	      		  emacs avecinput.py &
+
+Q8) On calcule p%q, si la réponse vaut 0 alors p est un multiple q, sinon p n'est pas un multiple de q.
+
+
+#EXERCICE 2#
+Q14) python3 ex2.py
+
+
+#EXERCICE 3#
+Q15) Il faut poser au minimum 5 questions. Une par animal.

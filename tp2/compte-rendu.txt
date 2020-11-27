@@ -1,0 +1,9 @@
+EXERCICE 1:
+Q1) Commandes utilisées : touch fruits.py
+    	      		  emacs fruits.py &
+Q4) python3 fruits.py
+
+EXERCICE 2:
+Q19) - Je suis beau
+     - fghhfd fghfdhjflh kfghksfhk f
+     - que des espaces  "                             "

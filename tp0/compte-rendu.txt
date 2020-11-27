@@ -1,0 +1,9 @@
+Q44) Erreur : ls : impossible d'ouvrir le répertoire '.': Permission non accordée
+Q45) Oui, on peut créer un fichier dans le dossier.
+Q48) Erreur : Permission non accordée
+Q49) Les droits d'exécution sur un dossier permettent d'accéder au contenu du dossier.
+Q51) Le dossier src contient le fichier : programme.py
+Q52) Je ne peux pas créer de fichier.
+Q53) Dans le cas d'un dossier : - r, permet d'accéder au contenu du dossier
+				- w, permet de créer du contenu dans le dossier
+				- x, permet d'exécuter des commandes dans le dossier à partir du 					terminal

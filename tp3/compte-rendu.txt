@@ -1,0 +1,27 @@
+EXERCICE 2 :
+Q3) Tant que s est inférieur ou égal à "limite", afficher s et donner à s la valeur de s + plus.
+
+Q4) Tant que s est inférieur ou égal à "limite", afficher s et donner à s la valeur de s * mul.
+
+Q5) Entrez le mul et la limite : 10 12345
+1
+10
+100
+1000
+10000
+Nombre d'itération(s) : 5
+
+
+EXERCICE 3 :
+Q9) random() renvoi un float dans un intervalle compris entre 0 et 1 (1 exclu).
+
+Q11) La valeur de x est maintenant comprise entre -1 et 1 (-1 et 1 exclus).
+
+Q14) if ((x*x +y*y)**0.5) <= r and ((x*x + y*y)**0.5) >= -r:
+     	print("Le point de coordonnées " ,x,",",y, " est dans le cercle de rayon " ,r, sep ="")
+     else:
+	print("Le point de coordonnées " ,x,",",y, " n'est pas dans le cercle de rayon " ,r, sep ="")
+
+Q16) r=5, n=150000, estimation de pi=3.14346666667 , temps=5s
+r=25, n=500000, estimation de pi=3.14 , temps=11s
+r=2, n=35, estimation de pi=2.742857 , temps=0s
